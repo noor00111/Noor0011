@@ -1,18 +1,18 @@
 
 
 ###
-<div align="center">
+<!-- <div align="center">
   <img width="1000" height="450" src="https://i.ibb.co.com/M82CfhV/github-banner.jpg"  />
-</div>
+</div> -->
 
-<div align="left">
+<!-- <div align="left">
   <a href="https://leetcode.com/problemset/" target="_blank">
   <img src="https://i.ibb.co.com/ftgzqMm/ll.png" height="23" alt="leetcode logo"  />
   </a>
   <a href="https://codeforces.com/profile/Archer00" target="_blank">
      <img src="https://i.ibb.co.com/VWFqpcq/c.png" height="24" alt="codeforce logo"  />
   </a>
-</div>
+</div> -->
 
 
 <h3 align="left">👩‍💻  About Me</h3>
