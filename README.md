@@ -5,7 +5,7 @@
 <h2 align="center">I'm Ayesha Noor Bristy</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Junior+Developer!;I+Design+Things+People+Actually+Enjoy!;Next.js+%7C+TypeScript+%7C+GSAP;Exploring+Backend+with+Prisma+and+PostgreSQL!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Junior+Developer!;I+Design+Things+People+Actually+Enjoy!;My+Philosophy:+Design+is+Code,+Code+is++Design!;Next.js+%7C+TypeScript+%7C+GSAP;Exploring+Backend+with+Prisma+and+PostgreSQL!;" />
 </p>
 
 <div align=center>
@@ -16,7 +16,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="10%" alt="Learning"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Halo.png" width="10%" alt="Still learning"/><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Halo.png" width="10%" alt="Still learning"/>
   
 </div>
 
@@ -57,7 +57,7 @@
 </h3>
 
 ```js
-const myTools = {
+const stack = {
   Language: ["JavaScript", "C++", "TypeScript"],
   Tools: ["React", "Next.js", "Tailwind", "Framer Motion"],
   Database: ["Firebase", "Mongo", "PostgreSql"],
@@ -97,3 +97,14 @@ const myTools = {
 </div>
 
 <hr></hr>
+
+<h3 align="center"> How to reach me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayeshanoorbristy/">
+    <img src="https://img.shields.io/badge/LinkedIn-ayesha%20noor%20bristy-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ayeshanoorbristy81@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ayeshanoorbristy81%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
