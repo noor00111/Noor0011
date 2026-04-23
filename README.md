@@ -8,6 +8,18 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Junior+Developer!;I+Design+Things+People+Actually+Enjoy!;Next.js+%7C+TypeScript+%7C+GSAP;Exploring+Backend+with+Prisma+and+PostgreSQL!" />
 </p>
 
+<div align=center>
+
+**Learning Journey**<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png" width="10%" alt="Confused"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="10%" alt="Learning"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Halo.png" width="10%" alt="Still learning"/><br>
+  
+</div>
+
 <hr></hr>
 
 ![Tech Stack](https://img.shields.io/badge/-%20Tech%20Stack-red)
