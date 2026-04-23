@@ -5,7 +5,7 @@
 <h2 align="center">I'm Ayesha Noor Bristy</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Junior+Developer!;I+Design+Things+People+Actually+Enjoy!;My+Philosophy:+Design+is+Code,+Code+is++Design!;Next.js+%7C+TypeScript+%7C+GSAP;Exploring+Backend+with+Prisma+and+PostgreSQL!;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Junior+Developer!;I+Design+Things+People+Actually+Enjoy!;My+Philosophy+Design+is+Code,+Code+is++Design!;Next.js+%7C+TypeScript+%7C+GSAP;Exploring+Backend+with+Prisma+and+PostgreSQL!;" />
 </p>
 
 <div align=center>
