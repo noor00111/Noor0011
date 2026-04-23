@@ -98,7 +98,7 @@ const stack = {
 
 <hr></hr>
 
-<h3 align="center"> How to reach me</h3>
+<h3 align="center"> If you see potential in my skills, I’d be glad to connect!!</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayeshanoorbristy/">
